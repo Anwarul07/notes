@@ -131,7 +131,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:4000",
     "https://anwarnotes.onrender.com",
     "https://notesfsd.netlify.app",
-    "https://notesfsd.netlify.app/",
+    "https://notesfsd.netlify.app",
 ]
 
 CORS_ALLOW_METHODS = (
@@ -149,7 +149,7 @@ CSRF_TRUSTED_ORIGINS = [
     "http://127.0.0.1:4000",
     "https://anwarnotes.onrender.com",
     "https://notesfsd.netlify.app",
-    "https://notesfsd.netlify.app/",
+    "https://notesfsd.netlify.app",
     "https://anwarnotes.onrender.com",
 ]
 
