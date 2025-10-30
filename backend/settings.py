@@ -130,8 +130,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:4000",
     "http://127.0.0.1:4000",
     "https://anwarnotes.onrender.com",
-    "https://notesfsd.netlify.app",
-    "https://notesfsd.netlify.app",
+    "https://notesfsd.onrender.com",
 ]
 
 CORS_ALLOW_METHODS = (
@@ -148,14 +147,7 @@ CSRF_TRUSTED_ORIGINS = [
     "http://localhost:4000",
     "http://127.0.0.1:4000",
     "https://anwarnotes.onrender.com",
-<<<<<<< HEAD
-=======
-    "https://notesfsd.netlify.app",
-    "https://notesfsd.netlify.app",
->>>>>>> 2767c6dcfbfc8eef0ddd7e6963b448afe2887553
-    "https://anwarnotes.onrender.com",
-    "https://notesfsd.netlify.app",
-    "https://notesfsd.netlify.app",
+    "https://notesfsd.onrender.com",
 ]
 
 import os
